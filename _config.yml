@@ -28,7 +28,7 @@ soundcloud_username:  mattheusjones
 #email: your-email@example.domain
 #public_key_url: "https://raw.pastebin.com/LINK-TO-PUBLIC-KEY"
 url: http://www.romanjones.co.uk
-url: http://www.romanjones.co.uk
+url: http://www.romanjones.co.uk/other-websites/maj/work/redesign/
 
 avatar: yes
 #avatar_img_path: "imgs/avatar.jpg""
@@ -50,4 +50,4 @@ favicon_img_path: "imgs/favicon.ico"
 
 # Build settings
 markdown: electricool
-permalink: romanjones.co.uk
+permalink: ma-jones.com
