@@ -48,5 +48,5 @@ favicon_img_path: "imgs/favicon.ico"
 
 
 # Build settings
-markdown: kramdown
-permalink: pretty
+markdown: electricool
+permalink: romanjones.co.uk
